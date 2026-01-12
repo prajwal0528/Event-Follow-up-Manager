@@ -20,16 +20,39 @@ export const STATUS_OPTIONS = [
   'Not Interested'
 ];
 
-export const WHATSAPP_TEMPLATE = `🎉 Congratulations!
+export const WHATSAPP_TEMPLATE = `Dear [NAME],
 
-Dear [NAME],
+I'm writing to personally invite you to an exclusive gathering of education leaders on January 26th (Republic Day) *evening* in *Mysuru*.
 
-[SCHOOL_NAME] has been selected as one of 100 exceptional institutions for our exclusive School Leaders' Evening on January 26th.
+WHAT: Education Leaders' Evening
+WHY: Preparing Students for India's AI-Powered Future
+WHEN: January 26, 2026 | 6:00 PM
+WHERE: Hotel The President, Mysuru
+WHO: School Principals, Management & Coordinators
 
-📅 Date: January 26, 2026
-⏰ Time: 6:00 PM onwards
-📍 Venue: Grand Hotel, Mysuru
+This is not a typical conference. It's an intimate roundtable where education leaders share real challenges and practical solutions around:
 
-👉 Please confirm: https://forms.google.com/your-form-link
+→ Implementing NEP 2020's AI literacy mandate
+→ Training teachers without overwhelming them
+→ Scaling personalized parent communication
+→ Budget-friendly technology adoption
 
-Looking forward to your presence!`;
+The evening includes:
+- Keynote by Guest
+- Panel discussion with fellow educators
+- Live demonstrations of solutions working in schools
+- Networking dinner
+
+Complimentary for attendees:
+- AI Readiness Assessment for your school
+- NEP 2020 Implementation Guide
+- Priority access to pilot programs
+
+Please RSVP by January 15th: https://forms.gle/ZSQYkhNmn7fNQEJ77
+
+Feel free to bring a colleague from your leadership team.
+
+Looking forward to seeing you there.
+
+Warm regards,
+IVIS LABS Private Limited`;

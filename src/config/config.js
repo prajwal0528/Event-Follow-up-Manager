@@ -22,7 +22,7 @@ export const STATUS_OPTIONS = [
 
 export const WHATSAPP_TEMPLATE = `Dear [NAME],
 
-I'm writing to personally invite you to an exclusive gathering of education leaders on January 26th (Republic Day) *evening* in *Mysuru*.
+I'm writing to personally invite you to *EDUCATIONAL LEADERS MEET*, an exclusive gathering of education leaders on January 26th (Republic Day) *evening* in *Mysuru*.
 
 WHAT: Education Leaders' Evening
 WHY: Preparing Students for India's AI-Powered Future

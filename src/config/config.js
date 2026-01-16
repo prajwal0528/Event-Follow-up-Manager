@@ -48,7 +48,8 @@ Complimentary for attendees:
 - NEP 2020 Implementation Guide
 - Priority access to pilot programs
 
-Please RSVP by January 15th: https://forms.gle/ZSQYkhNmn7fNQEJ77
+Please RSVP by January 20, 2026 : 
+https://forms.gle/ZSQYkhNmn7fNQEJ77
 
 Feel free to bring a colleague from your leadership team.
 
